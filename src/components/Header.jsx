@@ -19,7 +19,7 @@ const Header = () => {
 
 
         <h3 className="font-sans text-xs sm:text-sm md:text-base lg:text-lg text-cyan-400 mt-1 font-medium">
-          A CURRATED COLLECTION OF MOVIES
+          A CURATED COLLECTION OF MOVIES
         </h3>
       </section>
       <div className="flex justify-start sm:justify-center py-2 px-1 sm:px-2 mt-3 sm:mt-4 overflow-x-auto overflow-y-hidden w-full max-w-full scrollbar-hide">
